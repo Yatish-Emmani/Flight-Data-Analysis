@@ -1,0 +1,468 @@
+============1987 to 2008============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9272813217980147
+AQ  0.8783538084348839
+ML (1)  0.8402011575228144
+Lowest probability output
+EV  0.7067450478891781
+PI  0.710130982321092
+B6  0.7315091113256732
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+CKB 197.85714285714286
+MKK 45.77816291161179
+VLD 22.280210396885032
+Shortest Taxi
+LAR 0.0
+LBF 0.0
+RCA 0.0
+
+~~~~ The most common reason for flight cancellations
+A   258622
+
+============1987 to 2007============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9355604532666236
+AQ  0.8754508052764649
+ML (1)  0.8402011575228144
+Lowest probability output
+EV  0.7009758407508385
+PI  0.710130982321092
+B6  0.7308985451953128
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+CKB 197.85714285714286
+MKK 45.77816291161179
+VLD 28.221441947565545
+Shortest Taxi
+LAR 0.0
+LBF 0.0
+RCA 0.0
+
+~~~~ The most common reason for flight cancellations
+A   241141
+============1987 to 2006============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9363439341156828
+AQ  0.8608520949634991
+ML (1)  0.8402011575228144
+Lowest probability output
+PI  0.710130982321092
+EV  0.7192937098776654
+FL  0.7275519766399888
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+CKB 197.85714285714286
+MKK 45.77816291161179
+VLD 28.221441947565545
+Shortest Taxi
+LAR 0.0
+LBF 0.0
+RCA 0.0
+
+~~~~ The most common reason for flight cancellations
+A   174362
+
+============1987 to 2005============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9363554921925422
+AQ  0.8407668014848468
+ML (1)  0.8402011575228144
+Lowest probability output
+PI  0.710130982321092
+FL  0.7289068217051138
+EV  0.7424381865769325
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+CKB 212.3846153846154
+MKK 45.77816291161179
+FLO 30.613598946328615
+Shortest Taxi
+LAR 0.0
+ROW 0.0
+SKA 0.0
+
+~~~~ The most common reason for flight cancellations
+A   118707
+
+============1987 to 2004============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9279507343172106
+OO  0.8476205270747164
+AQ  0.8407668014848468
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+FL  0.7554649357328173
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+CKB 229.66666666666666
+MKK 45.77816291161179
+GNV 29.259280834613143
+Shortest Taxi
+SKA 0.0
+PUB 1.125
+BFF 2.0
+
+~~~~ The most common reason for flight cancellations
+A       59357
+
+============1987 to 2003============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HA  0.9026049018349801
+OO  0.8740292438293367
+AQ  0.8407668014848468
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+EV  0.75767041783481
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+VLD 20.803848750844026
+PHF 18.289991682838924
+JFK 17.031328375157514
+Shortest Taxi
+PUB 0.0
+BFF 2.0
+FMN 2.5
+
+~~~~ The most common reason for flight cancellations
+NA
+
+
+============1987 to 2002============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+AQ  0.8407668014848468
+ML (1)  0.8402011575228144
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+AS  0.7547742827752291
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+ACY 169.5
+JFK 17.3548864
+EWR 16.67002399
+Shortest Taxi
+LNY 0
+MKK 0
+GUM 3.406666667
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 2001============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+AQ  0.8407668014848468
+ML (1)  0.8402011575228144
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+MQ  0.737871814202013
+PS  0.7498649542665348
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     17.45164873
+EWR 16.79948885
+LGA 14.69257931
+Shortest Taxi
+LNY 0
+MKK 0
+GUM 3.406666667
+~~~~ The most common reason for flight cancellation
+NA
+
+============1987 to 2000============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+AQ  0.8929393353585565
+ML (1)  0.8402011575228144
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7512330158171279
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK  17.61616912
+EWR      16.81460986
+LGA  14.50753556
+Shortest Taxi
+ABI  0
+GGG  0
+LNY  0
+
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1999============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+PA (1)  0.8111097580125689
+NW  0.8089789551901357
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7614598286813239
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     17.3483
+EWR     16.6496
+DFW     14.05426
+Shortest Taxi
+ABI  0
+GGG  0
+LNY  0
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1998============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+PA (1)  0.8111097580125689
+NW  0.8087842515365536
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7615002983475393
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     17.14430383
+EWR     16.23275914
+DFW     14.06996054
+Shortest Taxi
+ABI  0
+GGG  0
+LNY  0
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1997============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8142772520993234
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+DL  0.7638257000559757
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     16.888491810089477
+EWR     15.672909418236278
+DFW 14.218731745521676
+Shortest Taxi
+ABI      0.0
+GUM  3.4066666666666667
+KSM      3.802030456852792
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1996============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8219042283356125
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7652393261121647
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     16.914142785124287
+EWR     15.301810349922189
+DFW  14.222427159701798
+Shortest Taxi
+ABI     0.0
+GUM  3.4295302013422817
+KSM     3.802030456852792
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1995============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8278477648664684
+AA  0.8126466084600836
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7707972983018684
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+Longest Taxi
+JFK     16.125534471373985
+EWR     14.660862740803607
+DFW     14.176996975494419
+Shortest Taxi
+GUM     3.4761904761904763
+KSM     3.9849624060150375
+DUT     4.191292875989446
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1994============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8298357143657082
+WN  0.8204841514508356
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7733236409996137
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1993============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8256304115085641
+WN  0.820665324228734
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7682228899545654
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1992============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+NW  0.8182035401491861
+HP  0.8180606369193538
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.7654625780245908
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1991============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+ML (1)  0.8402011575228144
+AA  0.8138903795533099
+PA (1)  0.8111097580125689
+Lowest probability output
+PI  0.710130982321092
+PS  0.7498649542665348
+UA  0.754212228452684
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+~~~~ The most common reason for flight cancellations
+
+============1987 to 1990============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HP  0.8110308570345988
+AA  0.8052984329051094
+PA (1)  0.7991625900497653
+Lowest probability output
+PI  0.710130982321092
+UA  0.7464362701428927
+US  0.7471049163955379
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1989============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HP  0.8176214881991076
+AA  0.8086256259412123
+WN  0.7883561205028674
+Lowest probability output
+US  0.7098963825127748
+PI  0.710130982321092
+UA  0.7353629886102813
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 to 1988============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+HP  0.827498619793058
+AA  0.8188832164870842
+WN  0.8151280841979844
+Lowest probability output
+US  0.7385936293196338
+PI  0.7430227155394941
+PS  0.7498649542665348
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+~~~~ The most common reason for flight cancellations
+NA
+
+============1987 ============
+~~~~ The 3 airlines with the highest and lowest probability, respectively, for being on schedule: 
+Highest probability output
+AA  0.8001866324507174
+PA (1)  0.7991005402794965
+EA  0.7693287900097222
+Lowest probability output
+PS  0.6320411091624867
+DL  0.7027368363750187
+AS  0.7100302371728243
+
+~~~~ The 3 airports with the longest and shortest average taxi time per flight (both in and out):
+NA
+
+~~~~ The most common reason for flight cancellations
+NA
+
